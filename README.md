@@ -7,11 +7,25 @@ I am not affliated to JoSSA or any other body by any means. All data here is tak
 ---
 
 ## Downloads
-Opening and Closing Rank for JoSAA 2021 Round 6 :
+### Opening and Closing Rank for JoSAA 2021 Round 6
+#### All institutes
 - [Excel Document](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/josaa-cutoff.xlsx)
 - [Portable Document Format (PDF)](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/josaa-cutoff.pdf)
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1ftV86BdXwuJKV58S08wyNd9QfdTVxciJeu6GJ1CaDMg/edit?usp=sharing)
 - [PDF sorted by Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/sort_by_closing_rank.pdf)
+#### Institutes specific
+- [NIT(s) Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-nits.xlsx)
+- [IIT(s) Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-iits.xlsx)
+- [IIIT(s) Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-iiits.xlsx)
+- [GFTI(s) Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-gftis.xlsx)
+
+### Previous Rounds
+- [Round 1 Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-round1.xlsx)
+- [Round 2 Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-round2.xlsx)
+- [Round 3 Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-round3.xlsx)
+- [Round 4 Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-round4.xlsx)
+- [Round 5 Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-round5.xlsx)
+
 
 ---
 
