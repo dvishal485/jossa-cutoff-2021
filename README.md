@@ -8,10 +8,10 @@ I am not affliated to JoSSA or any other body by any means. All data here is tak
 
 ## Downloads
 Opening and Closing Rank for JoSAA 2021 Round 6 :
-- [Excel Document](./josaa-cutoff.xlsx)
-- [Portable Document Format (PDF)](./josaa-cutoff.pdf)
+- [Excel Document](./raw/main/josaa-cutoff.xlsx)
+- [Portable Document Format (PDF)](./raw/main/josaa-cutoff.pdf)
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1ftV86BdXwuJKV58S08wyNd9QfdTVxciJeu6GJ1CaDMg/edit?usp=sharing)
-- [PDF sorted by Closing Ranks](./outputs/sort_by_closing_rank.pdf)
+- [PDF sorted by Closing Ranks](./raw/main/outputs/sort_by_closing_rank.pdf)
 
 ---
 
@@ -19,7 +19,7 @@ Opening and Closing Rank for JoSAA 2021 Round 6 :
 We will be using entirely the data of Round 6 if not mentioned otherwise.
 Any cutoff trend/comparision is based on All India (`AI`) or Outside State (`OS`) Quota for `Gender-Neutral` and `OPEN` category.
 
-- As we can see from the [cutoff files](#downloads) and the [jupyter notebook](./josaa-analysis.inpynb), there are a total of `9178` Opening & Closing Ranks from `114` different institutes providing `169` different Academic Programs.
+- As we can see from the [cutoff files](#downloads) and the [jupyter notebook](./josaa-analysis.inpynb), there are a total of `9178` Opening & Closing Ranks from `114` different institutes providing `169` [different Academic Programs](./programs.pdf).
 - The [Cutoff Information with Increasing order of Closing Ranks](./outputs/sort_by_closing_rank.xlsx) can be from the [Downloads section](#downloads). For only `OPEN` category, you can refer to [sort_by_closing_rank_general.xlsx](./outputs/sort_by_closing_rank_general.xlsx)
 - The highest cutoff has been seen for `Indian Institute of Technology Bombay` (IIT-B) followed by `IIT Delhi` and `IIT Madras`.
 - `Computer Science and Engineering (4 Years, Bachelor of Technology)` was found to be most demandful course.
