@@ -19,8 +19,8 @@ I am not affliated to JoSSA or any other body by any means. All data here is tak
 - [IIIT(s) Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-iiits.xlsx)
 - [GFTI(s) Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-gftis.xlsx)
 #### General : AI/OS : Gender-Neutral : OPEN Category
-- [Excel Document](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/gen-os-ai-open-neutral.xlsx)
-- [Portable Document Format (PDF)](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/gen-os-ai-open-neutral.pdf)
+- [Excel Document](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/gen-os-ai-open-neutral.xlsx)
+- [Portable Document Format (PDF)](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/gen-os-ai-open-neutral.pdf)
 
 ### Previous Rounds
 - [Round 1 Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-round1.xlsx)
