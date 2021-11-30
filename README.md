@@ -9,7 +9,7 @@ I am not affliated to JoSSA or any other body by any means. All data here is tak
 ## Downloads
 Opening and Closing Rank for JoSAA 2021 Round 6 :
 - [Excel Document](./josaa-cutoff.xlsx)
-- [Portable Document Format (PDF)](./josaa.pdf)
+- [Portable Document Format (PDF)](./josaa-cutoff.pdf)
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1ftV86BdXwuJKV58S08wyNd9QfdTVxciJeu6GJ1CaDMg/edit?usp=sharing)
 
 ---
