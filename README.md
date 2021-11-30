@@ -7,6 +7,9 @@ I am not affliated to JoSSA or any other body by any means. All data here is tak
 ---
 
 ## Downloads
+- If somehow any of the file is corrupted, all downloads [can also be found with the latest release here](https://github.com/dvishal485/jossa-cutoff-2021/releases/latest)
+- Instead of sharing these files prefer to share the url `https://github.com/dvishal485/jossa-cutoff-2021/` or give proper credits!
+
 ### Opening and Closing Rank for JoSAA 2021 Round 6
 #### All institutes
 - [Excel Document](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/josaa-cutoff.xlsx)
