@@ -32,6 +32,10 @@ I am not affliated to JoSSA or any other body by any means. All data here is tak
 - [Round 4 Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-round4.xlsx)
 - [Round 5 Opening & Closing Ranks](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-round5.xlsx)
 
+### JoSAA 2020
+- [JoSAA 2020 Opening & Closing Ranks (R6) Excel Sheet](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-2020.xlsx)
+- [Change in cutoff in 2021 & 2020 Analysis Excel Sheet](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-2021-20.xlsx)
+- [Change in cutoff in 2021 & 2020 Analysis PDF](https://github.com/dvishal485/jossa-cutoff-2021/raw/main/outputs/josaa-2021-20.pdf)
 
 ---
 
@@ -71,6 +75,8 @@ Any cutoff trend/comparision is based on All India (`AI`) or Outside State (`OS`
 
     ![EE Analysis](./outputs/top_EE.png)
 - If you want this kind of graph for other branches, use the [JoSAA Analysis Jupyter Notebook](./josaa-analysis.ipynb) or [raise an issue with the branch name](./issues)
+
+- For comparision of JoSAA 2021 with 2020 Opening & Closing rank, [refer to josaa-prev-year.md](./josaa-prev-year.md)
 
 ---
 
